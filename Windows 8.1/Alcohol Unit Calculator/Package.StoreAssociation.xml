@@ -355,6 +355,7 @@
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
     <MainPackageIdentityName>32694rayd250592.AreaCalc</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.BackMe</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.BarneyStinsonQutes</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.CarbonCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.CompatabilityChecker</MainPackageIdentityName>
@@ -367,9 +368,13 @@
     <MainPackageIdentityName>32694rayd250592.HomeBingo</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.HomeRepaymentCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.HubViewer</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.InCaseofEmergency</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.FlashBeam</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.LoanRepaymentCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.LottoNumbersPicker</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.MPGCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.NumberGen</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.PicktheNumber</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.PumpkinSmash</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.QuickReactions</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.Reactions</MainPackageIdentityName>
@@ -385,6 +390,11 @@
       <OsMinVersion>6.2.1.0</OsMinVersion>
       <PackageArchitecture>neutral</PackageArchitecture>
       <PackageMaxArchitectureVersion>1.0.0.1</PackageMaxArchitectureVersion>
+    </PackageInfo>
+    <PackageInfo>
+      <OsMinVersion>6.3.0.0</OsMinVersion>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>3.1.1.4</PackageMaxArchitectureVersion>
     </PackageInfo>
   </PackageInfoList>
 </StoreAssociation>

@@ -11,11 +11,11 @@
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black"/>
-                <GradientStop Color="#FF785735" Offset="1"/>
+                <GradientStop Color="#FF56A5B2" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock HorizontalAlignment="Left" Height="106" Margin="140,60,0,0" TextWrapping="Wrap" Text="Alcohol Unit Calculator" VerticalAlignment="Top" Width="1085" FontSize="36" TextAlignment="Center"/>
-        <TextBlock x:Name="result" HorizontalAlignment="Left" Height="106" Margin="1021,424,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" FontSize="36" TextAlignment="Center"/>
+        <TextBlock x:Name="result" HorizontalAlignment="Left" Height="106" Margin="1052,446,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" FontSize="36" TextAlignment="Center"/>
         <Button x:Name="calc" Content="Calculate" HorizontalAlignment="Left" Margin="806,427,0,0" VerticalAlignment="Top" Height="81" Width="162" Click="Button_Click_1"/>
         <TextBlock HorizontalAlignment="Left" Height="30" Margin="199,252,0,0" TextWrapping="Wrap" Text="Pint" VerticalAlignment="Top" Width="300" FontSize="18" TextAlignment="Center"/>
         <TextBlock HorizontalAlignment="Left" Height="30" Margin="199,312,0,0" TextWrapping="Wrap" Text="Wine" VerticalAlignment="Top" Width="300" FontSize="18" TextAlignment="Center"/>

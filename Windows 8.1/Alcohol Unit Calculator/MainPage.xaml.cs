@@ -130,6 +130,12 @@ namespace Alcohol_Unit_Calculator
                     int total = tpint + twine + taspirit + tdspirit + talcopop;
                     result.Text = total.ToString();
 
+                    if (total > 50)
+                    {
+                        var messageDialog2 = new MessageDialog("Please be careful with your consumption!");
+                        await messageDialog2.ShowAsync();
+
+                    }
 
                     if (total > recommendmen)
                     {
